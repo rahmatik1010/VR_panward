@@ -1,0 +1,354 @@
+fileFormatVersion: 2
+guid: e5cfb8cbd31a2ea45baff5284102cfbf
+timeCreated: 1487130256
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: half
+    100002: half 1
+    100004: half 2
+    100006: half 3
+    100008: half 4
+    100010: half 5
+    100012: half 6
+    100014: half 7
+    100016: ID113
+    100018: ID18
+    100020: ID18 1
+    100022: ID18 2
+    100024: ID18 3
+    100026: ID26
+    100028: ID26 1
+    100030: ID26 2
+    100032: ID26 3
+    100034: ID34
+    100036: ID34 1
+    100038: ID34 2
+    100040: ID34 3
+    100042: ID40
+    100044: ID40 1
+    100046: ID40 2
+    100048: ID40 3
+    100050: ID46
+    100052: ID46 1
+    100054: ID46 2
+    100056: ID46 3
+    100058: ID52
+    100060: ID52 1
+    100062: ID52 2
+    100064: ID52 3
+    100066: ID68
+    100068: ID68 1
+    100070: ID68 2
+    100072: ID68 3
+    100074: ID74
+    100076: ID74 1
+    100078: ID74 2
+    100080: ID74 3
+    100082: ID80
+    100084: ID80 1
+    100086: ID80 2
+    100088: ID80 3
+    100090: ID86
+    100092: ID86 1
+    100094: ID86 2
+    100096: ID86 3
+    100098: ID92
+    100100: ID92 1
+    100102: ID92 2
+    100104: ID92 3
+    100106: ID98
+    100108: ID98 1
+    100110: ID98 2
+    100112: ID98 3
+    100114: instance_0
+    100116: instance_1
+    100118: instance_1 1
+    100120: instance_1 2
+    100122: instance_1 3
+    100124: instance_2
+    100126: instance_2 1
+    100128: instance_2 2
+    100130: instance_2 3
+    100132: instance_3
+    100134: instance_4
+    100136: instance_5
+    100138: Last Saved SketchUp View
+    100140: //RootNode
+    100142: Track_Head
+    100144: Track_Head 1
+    100146: Track_Head 2
+    100148: Track_Head 3
+    400000: half
+    400002: half 1
+    400004: half 2
+    400006: half 3
+    400008: half 4
+    400010: half 5
+    400012: half 6
+    400014: half 7
+    400016: ID113
+    400018: ID18
+    400020: ID18 1
+    400022: ID18 2
+    400024: ID18 3
+    400026: ID26
+    400028: ID26 1
+    400030: ID26 2
+    400032: ID26 3
+    400034: ID34
+    400036: ID34 1
+    400038: ID34 2
+    400040: ID34 3
+    400042: ID40
+    400044: ID40 1
+    400046: ID40 2
+    400048: ID40 3
+    400050: ID46
+    400052: ID46 1
+    400054: ID46 2
+    400056: ID46 3
+    400058: ID52
+    400060: ID52 1
+    400062: ID52 2
+    400064: ID52 3
+    400066: ID68
+    400068: ID68 1
+    400070: ID68 2
+    400072: ID68 3
+    400074: ID74
+    400076: ID74 1
+    400078: ID74 2
+    400080: ID74 3
+    400082: ID80
+    400084: ID80 1
+    400086: ID80 2
+    400088: ID80 3
+    400090: ID86
+    400092: ID86 1
+    400094: ID86 2
+    400096: ID86 3
+    400098: ID92
+    400100: ID92 1
+    400102: ID92 2
+    400104: ID92 3
+    400106: ID98
+    400108: ID98 1
+    400110: ID98 2
+    400112: ID98 3
+    400114: instance_0
+    400116: instance_1
+    400118: instance_1 1
+    400120: instance_1 2
+    400122: instance_1 3
+    400124: instance_2
+    400126: instance_2 1
+    400128: instance_2 2
+    400130: instance_2 3
+    400132: instance_3
+    400134: instance_4
+    400136: instance_5
+    400138: Last Saved SketchUp View
+    400140: //RootNode
+    400142: Track_Head
+    400144: Track_Head 1
+    400146: Track_Head 2
+    400148: Track_Head 3
+    2300000: half
+    2300002: half 1
+    2300004: half 2
+    2300006: half 3
+    2300008: half 4
+    2300010: half 5
+    2300012: half 6
+    2300014: half 7
+    2300016: ID113
+    2300018: ID18
+    2300020: ID18 1
+    2300022: ID18 2
+    2300024: ID18 3
+    2300026: ID26
+    2300028: ID26 1
+    2300030: ID26 2
+    2300032: ID26 3
+    2300034: ID34
+    2300036: ID34 1
+    2300038: ID34 2
+    2300040: ID34 3
+    2300042: ID40
+    2300044: ID40 1
+    2300046: ID40 2
+    2300048: ID40 3
+    2300050: ID46
+    2300052: ID46 1
+    2300054: ID46 2
+    2300056: ID46 3
+    2300058: ID52
+    2300060: ID52 1
+    2300062: ID52 2
+    2300064: ID52 3
+    2300066: ID68
+    2300068: ID68 1
+    2300070: ID68 2
+    2300072: ID68 3
+    2300074: ID74
+    2300076: ID74 1
+    2300078: ID74 2
+    2300080: ID74 3
+    2300082: ID80
+    2300084: ID80 1
+    2300086: ID80 2
+    2300088: ID80 3
+    2300090: ID86
+    2300092: ID86 1
+    2300094: ID86 2
+    2300096: ID86 3
+    2300098: ID92
+    2300100: ID92 1
+    2300102: ID92 2
+    2300104: ID92 3
+    2300106: ID98
+    2300108: ID98 1
+    2300110: ID98 2
+    2300112: ID98 3
+    2300114: //RootNode
+    3300000: half
+    3300002: half 1
+    3300004: half 2
+    3300006: half 3
+    3300008: half 4
+    3300010: half 5
+    3300012: half 6
+    3300014: half 7
+    3300016: ID113
+    3300018: ID18
+    3300020: ID18 1
+    3300022: ID18 2
+    3300024: ID18 3
+    3300026: ID26
+    3300028: ID26 1
+    3300030: ID26 2
+    3300032: ID26 3
+    3300034: ID34
+    3300036: ID34 1
+    3300038: ID34 2
+    3300040: ID34 3
+    3300042: ID40
+    3300044: ID40 1
+    3300046: ID40 2
+    3300048: ID40 3
+    3300050: ID46
+    3300052: ID46 1
+    3300054: ID46 2
+    3300056: ID46 3
+    3300058: ID52
+    3300060: ID52 1
+    3300062: ID52 2
+    3300064: ID52 3
+    3300066: ID68
+    3300068: ID68 1
+    3300070: ID68 2
+    3300072: ID68 3
+    3300074: ID74
+    3300076: ID74 1
+    3300078: ID74 2
+    3300080: ID74 3
+    3300082: ID80
+    3300084: ID80 1
+    3300086: ID80 2
+    3300088: ID80 3
+    3300090: ID86
+    3300092: ID86 1
+    3300094: ID86 2
+    3300096: ID86 3
+    3300098: ID92
+    3300100: ID92 1
+    3300102: ID92 2
+    3300104: ID92 3
+    3300106: ID98
+    3300108: ID98 1
+    3300110: ID98 2
+    3300112: ID98 3
+    3300114: //RootNode
+    4300000: SketchUp
+    4300002: ID113
+    4300004: half
+    4300006: ID18
+    4300008: ID26
+    4300010: ID34
+    4300012: ID40
+    4300014: ID46
+    4300016: ID52
+    4300018: half
+    4300020: ID68
+    4300022: ID74
+    4300024: ID80
+    4300026: ID86
+    4300028: ID92
+    4300030: ID98
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

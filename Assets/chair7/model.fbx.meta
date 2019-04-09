@@ -1,0 +1,210 @@
+fileFormatVersion: 2
+guid: ae01e9d18e058d54ba5be210e5b64d24
+timeCreated: 1487130165
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Ceiling_track_lighting_48_inches
+    100002: half_1
+    100004: half_1 1
+    100006: half_1 2
+    100008: half_1 3
+    100010: half_1 4
+    100012: half_1 5
+    100014: half_1 6
+    100016: half_1 7
+    100018: ID118
+    100020: ID23
+    100022: ID23 1
+    100024: ID23 2
+    100026: ID23 3
+    100028: ID33
+    100030: ID33 1
+    100032: ID33 2
+    100034: ID33 3
+    100036: ID43
+    100038: ID43 1
+    100040: ID43 2
+    100042: ID43 3
+    100044: ID51
+    100046: ID51 1
+    100048: ID51 2
+    100050: ID51 3
+    100052: ID71
+    100054: ID71 1
+    100056: ID71 2
+    100058: ID71 3
+    100060: ID79
+    100062: ID79 1
+    100064: ID79 2
+    100066: ID79 3
+    100068: ID87
+    100070: ID87 1
+    100072: ID87 2
+    100074: ID87 3
+    100076: ID95
+    100078: ID95 1
+    100080: ID95 2
+    100082: ID95 3
+    100084: instance_0
+    100086: instance_1
+    100088: instance_2
+    100090: instance_2 1
+    100092: instance_2 2
+    100094: instance_2 3
+    100096: instance_3
+    100098: instance_3 1
+    100100: instance_3 2
+    100102: instance_3 3
+    100104: instance_4
+    100106: instance_4 1
+    100108: instance_4 2
+    100110: instance_4 3
+    100112: instance_5
+    100114: instance_6
+    100116: instance_7
+    100118: Last Saved SketchUp View
+    100120: light-point
+    100122: light-point 1
+    100124: light-point 2
+    100126: light-point 3
+    100128: //RootNode
+    100130: Track_Head_1
+    100132: Track_Head_1 1
+    100134: Track_Head_1 2
+    100136: Track_Head_1 3
+    400000: Ceiling_track_lighting_48_inches
+    400002: half_1
+    400004: half_1 1
+    400006: half_1 2
+    400008: half_1 3
+    400010: half_1 4
+    400012: half_1 5
+    400014: half_1 6
+    400016: half_1 7
+    400018: ID118
+    400020: ID23
+    400022: ID23 1
+    400024: ID23 2
+    400026: ID23 3
+    400028: ID33
+    400030: ID33 1
+    400032: ID33 2
+    400034: ID33 3
+    400036: ID43
+    400038: ID43 1
+    400040: ID43 2
+    400042: ID43 3
+    400044: ID51
+    400046: ID51 1
+    400048: ID51 2
+    400050: ID51 3
+    400052: ID71
+    400054: ID71 1
+    400056: ID71 2
+    400058: ID71 3
+    400060: ID79
+    400062: ID79 1
+    400064: ID79 2
+    400066: ID79 3
+    400068: ID87
+    400070: ID87 1
+    400072: ID87 2
+    400074: ID87 3
+    400076: ID95
+    400078: ID95 1
+    400080: ID95 2
+    400082: ID95 3
+    400084: instance_0
+    400086: instance_1
+    400088: instance_2
+    400090: instance_2 1
+    400092: instance_2 2
+    400094: instance_2 3
+    400096: instance_3
+    400098: instance_3 1
+    400100: instance_3 2
+    400102: instance_3 3
+    400104: instance_4
+    400106: instance_4 1
+    400108: instance_4 2
+    400110: instance_4 3
+    400112: instance_5
+    400114: instance_6
+    400116: instance_7
+    400118: Last Saved SketchUp View
+    400120: light-point
+    400122: light-point 1
+    400124: light-point 2
+    400126: light-point 3
+    400128: //RootNode
+    400130: Track_Head_1
+    400132: Track_Head_1 1
+    400134: Track_Head_1 2
+    400136: Track_Head_1 3
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
