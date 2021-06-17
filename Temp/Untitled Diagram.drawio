@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-17T05:04:50.775Z" agent="5.0 (Windows)" etag="78Z_pXetzz2SxsVMhw9r" version="14.7.10" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-17T06:14:06.581Z" agent="5.0 (Windows)" etag="B7R-U15QlOAkgdlIHy9H" version="14.7.10" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1038" dy="574" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -75,6 +75,40 @@
         </mxCell>
         <mxCell id="0F7fN9bv4-elk-XI-VPy-30" value="&lt;div&gt;yes&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="340" y="370" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="0F7fN9bv4-elk-XI-VPy-31" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="0F7fN9bv4-elk-XI-VPy-32">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="220" y="590" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0F7fN9bv4-elk-XI-VPy-32" value="absen" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="160" y="500" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0F7fN9bv4-elk-XI-VPy-36" value="data absen langsung ke server utama" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="160" y="800" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0F7fN9bv4-elk-XI-VPy-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="0F7fN9bv4-elk-XI-VPy-38" target="0F7fN9bv4-elk-XI-VPy-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0F7fN9bv4-elk-XI-VPy-38" value="save data attendance di local" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="160" y="590" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0F7fN9bv4-elk-XI-VPy-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="0F7fN9bv4-elk-XI-VPy-43" target="0F7fN9bv4-elk-XI-VPy-38">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="664" y="760" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0F7fN9bv4-elk-XI-VPy-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="0F7fN9bv4-elk-XI-VPy-43" target="0F7fN9bv4-elk-XI-VPy-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0F7fN9bv4-elk-XI-VPy-43" value="&lt;div&gt;migrasi data local &lt;br&gt;&lt;/div&gt;&lt;div&gt;ke server pada &lt;br&gt;&lt;/div&gt;&lt;div&gt;scheduler sekaligus &lt;br&gt;&lt;/div&gt;&lt;div&gt;auto clockout&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="135" y="660" width="170" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="0F7fN9bv4-elk-XI-VPy-51" value="&lt;div&gt;no&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="330" y="660" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="0F7fN9bv4-elk-XI-VPy-52" value="&lt;div&gt;yes&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="240" y="770" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
